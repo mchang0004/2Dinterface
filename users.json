@@ -14,11 +14,6 @@
             "username": "admin3",
             "password": "password3",
             "clearance": 10
-        },
-        {
-            "username": "admin4",
-            "password": "password4",
-            "clearance": 15
         }
     ]
 }
